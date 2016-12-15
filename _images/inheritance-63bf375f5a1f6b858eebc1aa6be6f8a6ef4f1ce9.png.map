@@ -1,0 +1,10 @@
+<map id="inheritancea3d73cb358" name="inheritancea3d73cb358">
+<area shape="rect" id="node3" href="#nitime.six.Module_six_moves_urllib" target="_top" title="Create a six.moves.urllib namespace that resembles the Python 3 namespace" alt="" coords="261,29,492,53"/>
+<area shape="rect" id="node4" href="#nitime.six.Module_six_moves_urllib_error" target="_top" title="Lazy loading of moved objects in six.moves.urllib_error" alt="" coords="244,77,509,101"/>
+<area shape="rect" id="node5" href="#nitime.six.Module_six_moves_urllib_parse" target="_top" title="Lazy loading of moved objects in six.moves.urllib_parse" alt="" coords="241,125,512,149"/>
+<area shape="rect" id="node6" href="#nitime.six.Module_six_moves_urllib_request" target="_top" title="Lazy loading of moved objects in six.moves.urllib_request" alt="" coords="235,173,518,197"/>
+<area shape="rect" id="node7" href="#nitime.six.Module_six_moves_urllib_response" target="_top" title="Lazy loading of moved objects in six.moves.urllib_response" alt="" coords="230,221,523,245"/>
+<area shape="rect" id="node8" href="#nitime.six.Module_six_moves_urllib_robotparser" target="_top" title="Lazy loading of moved objects in six.moves.urllib_robotparser" alt="" coords="224,269,530,293"/>
+<area shape="rect" id="node9" href="#nitime.six.MovedAttribute" target="_top" title="nitime.six.MovedAttribute" alt="" coords="5,53,176,77"/>
+<area shape="rect" id="node10" href="#nitime.six.MovedModule" target="_top" title="nitime.six.MovedModule" alt="" coords="8,5,173,29"/>
+</map>
